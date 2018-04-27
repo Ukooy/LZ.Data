@@ -1,0 +1,64 @@
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\LZ.Data.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\LZ.Data.pdb
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\EntityFramework.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\LZ.Model.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\System.Web.Mvc.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\LZ.Model.pdb
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\LZ.Model.dll.config
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\EntityFramework.xml
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.csprojResolveAssemblyReference.cache
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.csproj.CoreCompileInputs.cache
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.csproj.CopyComplete
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.dll
+C:\Users\dk026\Desktop\刘壮\06 程序测试\后端\后台通用开发框架\2、开发版\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.pdb
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\LZ.Data.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\LZ.Data.pdb
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\EntityFramework.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\LZ.Model.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\System.Web.Mvc.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\LZ.Model.pdb
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\LZ.Model.dll.config
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\EntityFramework.xml
+D:\02、程序测试\CommonManageSystem\LZ.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.csprojResolveAssemblyReference.cache
+D:\02、程序测试\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.csproj.CoreCompileInputs.cache
+D:\02、程序测试\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.csproj.CopyComplete
+D:\02、程序测试\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.dll
+D:\02、程序测试\CommonManageSystem\LZ.Data\obj\Debug\LZ.Data.pdb
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Data.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Data.pdb
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\EntityFramework.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Model.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\System.Web.Mvc.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Model.pdb
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Model.dll.config
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\EntityFramework.xml
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.csprojResolveAssemblyReference.cache
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.csproj.CoreCompileInputs.cache
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.csproj.CopyComplete
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.dll
+D:\01、工作协作\16300项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.pdb
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Data.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Data.pdb
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\EntityFramework.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Model.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\System.Web.Mvc.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Model.pdb
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\LZ.Model.dll.config
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\EntityFramework.xml
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.csprojResolveAssemblyReference.cache
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.csproj.CoreCompileInputs.cache
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.csproj.CopyComplete
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Debug\LZ.Data.pdb

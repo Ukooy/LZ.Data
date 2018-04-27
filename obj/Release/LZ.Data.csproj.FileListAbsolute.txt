@@ -1,0 +1,16 @@
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\LZ.Data.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\LZ.Data.pdb
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\EntityFramework.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\LZ.Model.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\Oracle.ManagedDataAccess.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\System.Web.Mvc.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\LZ.Model.pdb
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\LZ.Model.dll.config
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\EntityFramework.xml
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Release\LZ.Data.csprojResolveAssemblyReference.cache
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Release\LZ.Data.csproj.CoreCompileInputs.cache
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Release\LZ.Data.csproj.CopyComplete
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Release\LZ.Data.dll
+D:\01、工作协作\苏宁300接口项目\4、源码开发版\SNMS_v1.0\LZ.Data\obj\Release\LZ.Data.pdb
